@@ -7,7 +7,7 @@ import softSkillsIcon from '../Assets/skills-icon.png';
 
 export const SKILLS = [
     {
-        title: "Frontend",
+        title: "Web Designing",
         icon: frontendIcon,
         skills: [
             { skill: "HTML,CSS", percentage: "80%" },
@@ -17,22 +17,22 @@ export const SKILLS = [
         ]
     },
     {
-        title: "Backend",
+        title: "Video Editing",
         icon: backendIcon, 
         skills: [
-            { skill: "Node.js", percentage: "50%" },
-            { skill: "MS SQL", percentage: "65%" },
-            { skill: "MONGO DB", percentage: "65%" },
+            { skill: "Filmora", percentage: "90%" },
+            { skill: "Premier Pro", percentage: "70%" },
+            { skill: "After Effects", percentage: "50%" },
         ]
     },
     {
-        title: "Tools",
+        title: "Templates",
         icon: toolsIcon,
         skills: [
-            { skill: "Git & GitHub", percentage: "55%" },
-            { skill: "Visual Studio Code", percentage: "75%" },
+            { skill: "Flyers Making", percentage: "100%" },
+            { skill: "Youtube Thumbnails", percentage: "90%" },
             { skill: "Figma", percentage: "50%" },
-            { skill: "Responsive Design", percentage: "70%" }
+            { skill: "Canva", percentage: "80%" }
         ]
     },
     {
